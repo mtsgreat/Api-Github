@@ -8,4 +8,4 @@ Página criada usando HTML, CSS E JS (promisses, async, await)
 
 
 
-Acesse a página aqui: [Rocket Coffee](https://mtsgreat.github.io/Lane-page-Rocket-Coffee/)
+Acesse a página aqui: [Pesquisar Repositórios](https://mtsgreat.github.io/Api-Github/)
